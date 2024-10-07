@@ -6,6 +6,13 @@ __pycache__/
 *.py[cod]
 *.pyo
 
+# Ignore all text files
+*.txt
+*.md
+*.docx
+*.pdf
+
+
 # Ignore VSCode settings and workspace
 .vscode/
 
