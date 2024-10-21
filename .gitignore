@@ -11,7 +11,7 @@ __pycache__/
 *.md
 *.docx
 *.pdf
-
+*.json
 
 # Ignore VSCode settings and workspace
 .vscode/
